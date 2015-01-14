@@ -183,3 +183,13 @@ input {
     @extend .form-control;
   }
 }
+
+.row.register {
+  max-width: 500px;
+  margin: 0px auto;
+}
+
+.row.signin {
+  max-width: 500px;
+  margin: 0px auto;
+}
